@@ -1,6 +1,11 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1rem 0.5rem;
   text-align: center;
+}
+
+.list-group-item {
+  padding-left: 0.5rem;
+  text-align: left;
 }
